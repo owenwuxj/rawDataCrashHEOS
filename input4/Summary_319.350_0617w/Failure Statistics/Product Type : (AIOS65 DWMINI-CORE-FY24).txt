@@ -1,0 +1,46 @@
+Failure Statistics for Product Type : (AIOS65 DWMINI-CORE-FY24)
+00544 :Total Automatic Uploads
+00544 3.19.350            ( 100.00 % )
+00221   GEM crashes
+00102   AMS crashes
+00133   CLI crashes
+00000   HEALTH_HUB crashes
+00000   HOME_AUTOMATION crashes
+00000   NPPL crashes
+00000   AIOSDSP crashes
+00000   MCU_CONTROL crashes
+00000   CLOUDCONTROL crashes
+00000   NETWORKMANAGER crashes
+00002   UPNP_SERVER crashes
+00000   WEB-API crashes
+00000   WEB_CONTROL crashes
+00086   Watchdog
+        00000   WDG-Multi
+        00000   WDG-BOOTSTRAP
+        00013   WDG-AMS
+        00012   WDG-CLI
+        00002   WDG-HLT
+        00000   WDG-HAP
+        00000   WDG-GEM (bootstrap)
+        00000   WDG-GEM (systdm_supervisor)
+        00000   WDG-GEM (gem)
+        00000   WDG-GEM (bootstra)
+        00191   WDG-GEM (CSystemControl)
+        00000   WDG-GEM (system_superviso)
+        00037   WDG-GEM (system_supervisor)
+        00003   WDG-UPS
+        00000   WDG-SYS_SUPRV
+        00000   WDG-AVG_NODE 
+        00000   WDG-DSP
+00000   Critical FW
+00000   System crashes
+        00000   SYS-ARM
+        00000   SYS-DIE
+        00000   SYS-PAN
+00012 :Total User Initiated Uploads
+00012 3.19.350            ( 100.00 % )
+00012   Application
+00000   Button
+00000 :Total OOMs (not uploaded separately)
+00000 :Total Unprovisioned (not uploaded separately)
+00000 :Total Miscellaneous Uploads

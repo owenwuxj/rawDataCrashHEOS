@@ -1,0 +1,44 @@
+Failure Statistics for Product Type : (HS2 DENON-DSW-1H)
+00249 :Total Automatic Uploads
+00249 3.19.350            ( 100.00 % )
+00008   GEM crashes
+00000   AMS crashes
+00001   CLI crashes
+00000   HEALTH_HUB crashes
+00000   HOME_AUTOMATION crashes
+00000   NPPL crashes
+00000   AIOSDSP crashes
+00000   MCU_CONTROL crashes
+00000   CLOUDCONTROL crashes
+00000   NETWORKMANAGER crashes
+00000   UPNP_SERVER crashes
+00000   WEB-API crashes
+00000   WEB_CONTROL crashes
+00212   Watchdog
+        00000   WDG-Multi
+        00000   WDG-BOOTSTRAP
+        00001   WDG-AMS
+        00001   WDG-CLI
+        00000   WDG-HLT
+        00000   WDG-HAP
+        00000   WDG-GEM (bootstrap)
+        00000   WDG-GEM (gem)
+        00000   WDG-GEM (aal_mcu)
+        00262   WDG-GEM (CSystemControl)
+        00000   WDG-GEM (system_supervisor)
+        00001   WDG-UPS
+        00000   WDG-SYS_SUPRV
+        00000   WDG-AVG_NODE 
+        00000   WDG-DSP
+00000   Critical FW
+00028   System crashes
+        00000   SYS-ARM
+        00009   SYS-DIE
+        00019   SYS-PAN
+00014 :Total User Initiated Uploads
+00014 3.19.350            ( 100.00 % )
+00011   Application
+00003   Button
+00010 :Total OOMs (not uploaded separately)
+00000 :Total Unprovisioned (not uploaded separately)
+00000 :Total Miscellaneous Uploads

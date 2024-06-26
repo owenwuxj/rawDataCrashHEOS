@@ -1,0 +1,44 @@
+Failure Statistics for Product Type : (HS2 DWMINI-CORE-FY18)
+05611 :Total Automatic Uploads
+05597 3.19.350            ( 100.00 % )
+00727   GEM crashes
+00107   AMS crashes
+00889   CLI crashes
+00000   HEALTH_HUB crashes
+00000   HOME_AUTOMATION crashes
+00000   NPPL crashes
+00000   AIOSDSP crashes
+00002   MCU_CONTROL crashes
+00000   CLOUDCONTROL crashes
+00000   NETWORKMANAGER crashes
+00006   UPNP_SERVER crashes
+00000   WEB-API crashes
+00000   WEB_CONTROL crashes
+02322   Watchdog
+        00000   WDG-Multi
+        00000   WDG-BOOTSTRAP
+        00331   WDG-AMS
+        00330   WDG-CLI
+        00020   WDG-HLT
+        00000   WDG-HAP
+        00002   WDG-GEM (bootstrap)
+        00004   WDG-GEM (gem)
+        00000   WDG-GEM (aal_mcu)
+        02063   WDG-GEM (CSystemControl)
+        00010   WDG-GEM (system_supervisor)
+        00319   WDG-UPS
+        00000   WDG-SYS_SUPRV
+        00000   WDG-AVG_NODE 
+        00000   WDG-DSP
+00000   Critical FW
+01558   System crashes
+        00005   SYS-ARM
+        00784   SYS-DIE
+        00769   SYS-PAN
+00115 :Total User Initiated Uploads
+00115 3.19.350            ( 100.00 % )
+00115   Application
+00000   Button
+00765 :Total OOMs (not uploaded separately)
+00000 :Total Unprovisioned (not uploaded separately)
+00000 :Total Miscellaneous Uploads

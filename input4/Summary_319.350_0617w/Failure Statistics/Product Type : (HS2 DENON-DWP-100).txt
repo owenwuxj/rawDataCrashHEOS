@@ -1,0 +1,44 @@
+Failure Statistics for Product Type : (HS2 DENON-DWP-100)
+01075 :Total Automatic Uploads
+01075 3.19.350            ( 100.00 % )
+00391   GEM crashes
+00028   AMS crashes
+00006   CLI crashes
+00000   HEALTH_HUB crashes
+00000   HOME_AUTOMATION crashes
+00000   NPPL crashes
+00000   AIOSDSP crashes
+00000   MCU_CONTROL crashes
+00000   CLOUDCONTROL crashes
+00000   NETWORKMANAGER crashes
+00009   UPNP_SERVER crashes
+00000   WEB-API crashes
+00000   WEB_CONTROL crashes
+00389   Watchdog
+        00000   WDG-Multi
+        00000   WDG-BOOTSTRAP
+        00008   WDG-AMS
+        00031   WDG-CLI
+        00001   WDG-HLT
+        00000   WDG-HAP
+        00001   WDG-GEM (bootstrap)
+        00000   WDG-GEM (gem)
+        00001   WDG-GEM (aal_mcu)
+        00285   WDG-GEM (CSystemControl)
+        00000   WDG-GEM (system_supervisor)
+        00012   WDG-UPS
+        00000   WDG-SYS_SUPRV
+        00000   WDG-AVG_NODE 
+        00000   WDG-DSP
+00000   Critical FW
+00252   System crashes
+        00002   SYS-ARM
+        00045   SYS-DIE
+        00205   SYS-PAN
+00096 :Total User Initiated Uploads
+00096 3.19.350            ( 100.00 % )
+00096   Application
+00000   Button
+00192 :Total OOMs (not uploaded separately)
+00000 :Total Unprovisioned (not uploaded separately)
+00000 :Total Miscellaneous Uploads

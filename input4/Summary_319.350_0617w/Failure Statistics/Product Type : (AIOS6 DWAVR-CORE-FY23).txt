@@ -1,0 +1,46 @@
+Failure Statistics for Product Type : (AIOS6 DWAVR-CORE-FY23)
+04657 :Total Automatic Uploads
+04655 3.19.350            ( 100.00 % )
+00999   GEM crashes
+00754   AMS crashes
+01145   CLI crashes
+00002   HEALTH_HUB crashes
+00000   HOME_AUTOMATION crashes
+00000   NPPL crashes
+00000   AIOSDSP crashes
+00000   MCU_CONTROL crashes
+00000   CLOUDCONTROL crashes
+00000   NETWORKMANAGER crashes
+00003   UPNP_SERVER crashes
+00013   WEB-API crashes
+00034   WEB_CONTROL crashes
+01042   Watchdog
+        00000   WDG-Multi
+        00000   WDG-BOOTSTRAP
+        00817   WDG-AMS
+        00035   WDG-CLI
+        00004   WDG-HLT
+        00000   WDG-HAP
+        00000   WDG-GEM (bootstrap)
+        00000   WDG-GEM (systdm_supervisor)
+        00000   WDG-GEM (gem)
+        00000   WDG-GEM (bootstra)
+        00995   WDG-GEM (CSystemControl)
+        00000   WDG-GEM (system_superviso)
+        00028   WDG-GEM (system_supervisor)
+        00004   WDG-UPS
+        00000   WDG-SYS_SUPRV
+        00000   WDG-AVG_NODE 
+        00000   WDG-DSP
+00000   Critical FW
+00665   System crashes
+        00010   SYS-ARM
+        00000   SYS-DIE
+        00655   SYS-PAN
+00351 :Total User Initiated Uploads
+00351 3.19.350            ( 100.00 % )
+00349   Application
+00002   Button
+00000 :Total OOMs (not uploaded separately)
+00000 :Total Unprovisioned (not uploaded separately)
+00000 :Total Miscellaneous Uploads

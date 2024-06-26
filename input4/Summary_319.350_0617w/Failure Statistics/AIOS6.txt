@@ -1,0 +1,46 @@
+Failure Statistics for AIOS6
+13040 :Total Automatic Uploads
+13029 3.19.350            ( 100.00 % )
+04924   GEM crashes
+01387   AMS crashes
+01709   CLI crashes
+00005   HEALTH_HUB crashes
+00000   HOME_AUTOMATION crashes
+00000   NPPL crashes
+00000   AIOSDSP crashes
+00000   MCU_CONTROL crashes
+00000   CLOUDCONTROL crashes
+00000   NETWORKMANAGER crashes
+00008   UPNP_SERVER crashes
+00013   WEB-API crashes
+00034   WEB_CONTROL crashes
+03573   Watchdog
+        00000   WDG-Multi
+        00000   WDG-BOOTSTRAP
+        01332   WDG-AMS
+        00372   WDG-CLI
+        00245   WDG-HLT
+        00000   WDG-HAP
+        00002   WDG-GEM (bootstrap)
+        00015   WDG-GEM (systdm_supervisor)
+        00001   WDG-GEM (gem)
+        00001   WDG-GEM (bootstra)
+        03977   WDG-GEM (CSystemControl)
+        00004   WDG-GEM (system_superviso)
+        00036   WDG-GEM (system_supervisor)
+        00299   WDG-UPS
+        00000   WDG-SYS_SUPRV
+        00000   WDG-AVG_NODE 
+        00000   WDG-DSP
+00000   Critical FW
+01387   System crashes
+        00161   SYS-ARM
+        00000   SYS-DIE
+        01226   SYS-PAN
+01195 :Total User Initiated Uploads
+01195 3.19.350            ( 100.00 % )
+01104   Application
+00091   Button
+00000 :Total OOMs (not uploaded separately)
+00000 :Total Unprovisioned (not uploaded separately)
+00000 :Total Miscellaneous Uploads

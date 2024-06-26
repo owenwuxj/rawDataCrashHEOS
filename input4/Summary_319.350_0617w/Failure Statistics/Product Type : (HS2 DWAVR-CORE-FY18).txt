@@ -1,0 +1,44 @@
+Failure Statistics for Product Type : (HS2 DWAVR-CORE-FY18)
+04300 :Total Automatic Uploads
+04286 3.19.350            ( 100.00 % )
+00571   GEM crashes
+00255   AMS crashes
+01671   CLI crashes
+00012   HEALTH_HUB crashes
+00000   HOME_AUTOMATION crashes
+00000   NPPL crashes
+00000   AIOSDSP crashes
+00038   MCU_CONTROL crashes
+00000   CLOUDCONTROL crashes
+00000   NETWORKMANAGER crashes
+00080   UPNP_SERVER crashes
+00005   WEB-API crashes
+00011   WEB_CONTROL crashes
+01118   Watchdog
+        00000   WDG-Multi
+        00000   WDG-BOOTSTRAP
+        00102   WDG-AMS
+        00261   WDG-CLI
+        00005   WDG-HLT
+        00000   WDG-HAP
+        00001   WDG-GEM (bootstrap)
+        00003   WDG-GEM (gem)
+        00000   WDG-GEM (aal_mcu)
+        00850   WDG-GEM (CSystemControl)
+        00041   WDG-GEM (system_supervisor)
+        00131   WDG-UPS
+        00000   WDG-SYS_SUPRV
+        00000   WDG-AVG_NODE 
+        00000   WDG-DSP
+00000   Critical FW
+00539   System crashes
+        00014   SYS-ARM
+        00249   SYS-DIE
+        00276   SYS-PAN
+00197 :Total User Initiated Uploads
+00197 3.19.350            ( 100.00 % )
+00197   Application
+00000   Button
+00213 :Total OOMs (not uploaded separately)
+00000 :Total Unprovisioned (not uploaded separately)
+00000 :Total Miscellaneous Uploads

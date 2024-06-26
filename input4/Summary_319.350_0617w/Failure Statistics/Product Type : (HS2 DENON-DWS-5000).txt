@@ -1,0 +1,44 @@
+Failure Statistics for Product Type : (HS2 DENON-DWS-5000)
+00524 :Total Automatic Uploads
+00524 3.19.350            ( 100.00 % )
+00098   GEM crashes
+00009   AMS crashes
+00002   CLI crashes
+00000   HEALTH_HUB crashes
+00000   HOME_AUTOMATION crashes
+00000   NPPL crashes
+00000   AIOSDSP crashes
+00000   MCU_CONTROL crashes
+00000   CLOUDCONTROL crashes
+00000   NETWORKMANAGER crashes
+00017   UPNP_SERVER crashes
+00000   WEB-API crashes
+00000   WEB_CONTROL crashes
+00204   Watchdog
+        00000   WDG-Multi
+        00000   WDG-BOOTSTRAP
+        00008   WDG-AMS
+        00011   WDG-CLI
+        00000   WDG-HLT
+        00000   WDG-HAP
+        00000   WDG-GEM (bootstrap)
+        00000   WDG-GEM (gem)
+        00002   WDG-GEM (aal_mcu)
+        00223   WDG-GEM (CSystemControl)
+        00000   WDG-GEM (system_supervisor)
+        00002   WDG-UPS
+        00000   WDG-SYS_SUPRV
+        00000   WDG-AVG_NODE 
+        00000   WDG-DSP
+00000   Critical FW
+00194   System crashes
+        00004   SYS-ARM
+        00066   SYS-DIE
+        00124   SYS-PAN
+00065 :Total User Initiated Uploads
+00065 3.19.350            ( 100.00 % )
+00065   Application
+00000   Button
+00059 :Total OOMs (not uploaded separately)
+00000 :Total Unprovisioned (not uploaded separately)
+00000 :Total Miscellaneous Uploads

@@ -1,0 +1,44 @@
+Failure Statistics for HS2
+44062 :Total Automatic Uploads
+43998 3.19.350            ( 100.00 % )
+07022   GEM crashes
+01940   AMS crashes
+10051   CLI crashes
+00040   HEALTH_HUB crashes
+00000   HOME_AUTOMATION crashes
+00000   NPPL crashes
+00000   AIOSDSP crashes
+00083   MCU_CONTROL crashes
+00000   CLOUDCONTROL crashes
+00000   NETWORKMANAGER crashes
+00334   UPNP_SERVER crashes
+00027   WEB-API crashes
+00013   WEB_CONTROL crashes
+16131   Watchdog
+        00000   WDG-Multi
+        00000   WDG-BOOTSTRAP
+        01106   WDG-AMS
+        02449   WDG-CLI
+        00065   WDG-HLT
+        00000   WDG-HAP
+        00021   WDG-GEM (bootstrap)
+        00024   WDG-GEM (gem)
+        00007   WDG-GEM (aal_mcu)
+        11995   WDG-GEM (CSystemControl)
+        00238   WDG-GEM (system_supervisor)
+        01039   WDG-UPS
+        00000   WDG-SYS_SUPRV
+        00000   WDG-AVG_NODE 
+        00000   WDG-DSP
+00000   Critical FW
+08421   System crashes
+        00081   SYS-ARM
+        03396   SYS-DIE
+        04944   SYS-PAN
+02678 :Total User Initiated Uploads
+02678 3.19.350            ( 100.00 % )
+02558   Application
+00120   Button
+03902 :Total OOMs (not uploaded separately)
+00000 :Total Unprovisioned (not uploaded separately)
+00000 :Total Miscellaneous Uploads

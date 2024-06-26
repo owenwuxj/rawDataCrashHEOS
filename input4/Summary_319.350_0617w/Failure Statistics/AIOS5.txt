@@ -1,0 +1,43 @@
+Failure Statistics for AIOS5
+09069 :Total Automatic Uploads
+09064 3.19.350            ( 100.00 % )
+06265   GEM crashes
+00326   AMS crashes
+01168   CLI crashes
+00008   HEALTH_HUB crashes
+00000   HOME_AUTOMATION crashes
+00000   NPPL crashes
+00000   AIOSDSP crashes
+00000   MCU_CONTROL crashes
+00000   CLOUDCONTROL crashes
+00000   NETWORKMANAGER crashes
+00001   UPNP_SERVER crashes
+00004   WEB-API crashes
+00007   WEB_CONTROL crashes
+01139   Watchdog
+        00000   WDG-Multi
+        00000   WDG-BOOTSTRAP
+        00037   WDG-AMS
+        00348   WDG-CLI
+        00015   WDG-HLT
+        00000   WDG-HAP
+        00001   WDG-GEM (bootstrap)
+        00004   WDG-GEM (gem)
+        00904   WDG-GEM (CSystemControl)
+        00041   WDG-GEM (system_supervisor)
+        00045   WDG-UPS
+        00000   WDG-SYS_SUPRV
+        00000   WDG-AVG_NODE 
+        00000   WDG-DSP
+00000   Critical FW
+00151   System crashes
+        00016   SYS-ARM
+        00051   SYS-DIE
+        00084   SYS-PAN
+00263 :Total User Initiated Uploads
+00263 3.19.350            ( 100.00 % )
+00259   Application
+00004   Button
+00000 :Total OOMs (not uploaded separately)
+00000 :Total Unprovisioned (not uploaded separately)
+00000 :Total Miscellaneous Uploads

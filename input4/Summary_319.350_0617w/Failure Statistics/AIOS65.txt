@@ -1,0 +1,46 @@
+Failure Statistics for AIOS65
+04668 :Total Automatic Uploads
+04668 3.19.350            ( 100.00 % )
+01194   GEM crashes
+00312   AMS crashes
+01390   CLI crashes
+00002   HEALTH_HUB crashes
+00000   HOME_AUTOMATION crashes
+00000   NPPL crashes
+00000   AIOSDSP crashes
+00001   MCU_CONTROL crashes
+00000   CLOUDCONTROL crashes
+00000   NETWORKMANAGER crashes
+00018   UPNP_SERVER crashes
+00000   WEB-API crashes
+00006   WEB_CONTROL crashes
+01745   Watchdog
+        00000   WDG-Multi
+        00000   WDG-BOOTSTRAP
+        00667   WDG-AMS
+        00540   WDG-CLI
+        00238   WDG-HLT
+        00000   WDG-HAP
+        00003   WDG-GEM (bootstrap)
+        00000   WDG-GEM (systdm_supervisor)
+        00006   WDG-GEM (gem)
+        00000   WDG-GEM (bootstra)
+        01648   WDG-GEM (CSystemControl)
+        00000   WDG-GEM (system_superviso)
+        00162   WDG-GEM (system_supervisor)
+        00275   WDG-UPS
+        00000   WDG-SYS_SUPRV
+        00000   WDG-AVG_NODE 
+        00000   WDG-DSP
+00000   Critical FW
+00000   System crashes
+        00000   SYS-ARM
+        00000   SYS-DIE
+        00000   SYS-PAN
+00117 :Total User Initiated Uploads
+00117 3.19.350            ( 100.00 % )
+00115   Application
+00002   Button
+00000 :Total OOMs (not uploaded separately)
+00000 :Total Unprovisioned (not uploaded separately)
+00000 :Total Miscellaneous Uploads

@@ -1,0 +1,46 @@
+Failure Statistics for Product Type : (AIOS6 DENON-DWHS-150)
+03914 :Total Automatic Uploads
+03909 3.19.350            ( 100.00 % )
+01696   GEM crashes
+00276   AMS crashes
+00010   CLI crashes
+00002   HEALTH_HUB crashes
+00000   HOME_AUTOMATION crashes
+00000   NPPL crashes
+00000   AIOSDSP crashes
+00000   MCU_CONTROL crashes
+00000   CLOUDCONTROL crashes
+00000   NETWORKMANAGER crashes
+00001   UPNP_SERVER crashes
+00000   WEB-API crashes
+00000   WEB_CONTROL crashes
+01629   Watchdog
+        00000   WDG-Multi
+        00000   WDG-BOOTSTRAP
+        00239   WDG-AMS
+        00151   WDG-CLI
+        00101   WDG-HLT
+        00000   WDG-HAP
+        00001   WDG-GEM (bootstrap)
+        00009   WDG-GEM (systdm_supervisor)
+        00001   WDG-GEM (gem)
+        00001   WDG-GEM (bootstra)
+        01800   WDG-GEM (CSystemControl)
+        00003   WDG-GEM (system_superviso)
+        00001   WDG-GEM (system_supervisor)
+        00124   WDG-UPS
+        00000   WDG-SYS_SUPRV
+        00000   WDG-AVG_NODE 
+        00000   WDG-DSP
+00000   Critical FW
+00300   System crashes
+        00091   SYS-ARM
+        00000   SYS-DIE
+        00209   SYS-PAN
+00424 :Total User Initiated Uploads
+00424 3.19.350            ( 100.00 % )
+00404   Application
+00020   Button
+00000 :Total OOMs (not uploaded separately)
+00000 :Total Unprovisioned (not uploaded separately)
+00000 :Total Miscellaneous Uploads

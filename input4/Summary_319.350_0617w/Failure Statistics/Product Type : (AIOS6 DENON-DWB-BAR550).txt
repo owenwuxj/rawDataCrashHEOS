@@ -1,0 +1,46 @@
+Failure Statistics for Product Type : (AIOS6 DENON-DWB-BAR550)
+01033 :Total Automatic Uploads
+01033 3.19.350            ( 100.00 % )
+00782   GEM crashes
+00029   AMS crashes
+00001   CLI crashes
+00000   HEALTH_HUB crashes
+00000   HOME_AUTOMATION crashes
+00000   NPPL crashes
+00000   AIOSDSP crashes
+00000   MCU_CONTROL crashes
+00000   CLOUDCONTROL crashes
+00000   NETWORKMANAGER crashes
+00000   UPNP_SERVER crashes
+00000   WEB-API crashes
+00000   WEB_CONTROL crashes
+00141   Watchdog
+        00000   WDG-Multi
+        00000   WDG-BOOTSTRAP
+        00087   WDG-AMS
+        00047   WDG-CLI
+        00038   WDG-HLT
+        00000   WDG-HAP
+        00000   WDG-GEM (bootstrap)
+        00000   WDG-GEM (systdm_supervisor)
+        00275   WDG-GEM (CSystemControl)
+        00000   WDG-GEM (gem)
+        00000   WDG-GEM (system_superviso)
+        00001   WDG-GEM (system_supervisor)
+        00000   WDG-GEM (bootstra)
+        00046   WDG-UPS
+        00000   WDG-SYS_SUPRV
+        00000   WDG-AVG_NODE 
+        00000   WDG-DSP
+00000   Critical FW
+00080   System crashes
+        00010   SYS-ARM
+        00000   SYS-DIE
+        00070   SYS-PAN
+00072 :Total User Initiated Uploads
+00072 3.19.350            ( 100.00 % )
+00060   Application
+00012   Button
+00000 :Total OOMs (not uploaded separately)
+00000 :Total Unprovisioned (not uploaded separately)
+00000 :Total Miscellaneous Uploads

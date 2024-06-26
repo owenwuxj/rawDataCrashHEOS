@@ -1,0 +1,48 @@
+*****************************************************
+Overall Failure Statistics
+70839 :Total Automatic Uploads
+70759 3.19.350            ( 100.00 % )
+19405   GEM crashes
+03965   AMS crashes
+14318   CLI crashes
+00055   HEALTH_HUB crashes
+00000   HOME_AUTOMATION crashes
+00000   NPPL crashes
+00000   AIOSDSP crashes
+00084   MCU_CONTROL crashes
+00000   CLOUDCONTROL crashes
+00000   NETWORKMANAGER crashes
+00361   UPNP_SERVER crashes
+00044   WEB-API crashes
+00060   WEB_CONTROL crashes
+22588   Watchdog
+        00000   WDG-Multi
+        00000   WDG-BOOTSTRAP
+        03142   WDG-AMS
+        03709   WDG-CLI
+        00563   WDG-HLT
+        00000   WDG-HAP
+        00027   WDG-GEM (bootstrap)
+        00015   WDG-GEM (systdm_supervisor)
+        00035   WDG-GEM (gem)
+        00007   WDG-GEM (aal_mcu)
+        00001   WDG-GEM (bootstra)
+        18524   WDG-GEM (CSystemControl)
+        00004   WDG-GEM (system_superviso)
+        00477   WDG-GEM (system_supervisor)
+        01658   WDG-UPS
+        00000   WDG-SYS_SUPRV
+        00000   WDG-AVG_NODE 
+        00000   WDG-DSP
+00000   Critical FW
+09959   System crashes
+        00258   SYS-ARM
+        03447   SYS-DIE
+        06254   SYS-PAN
+04253 :Total User Initiated Uploads
+04253 3.19.350            ( 100.00 % )
+04036   Application
+00217   Button
+03902 :Total OOMs (not uploaded separately)
+00000 :Total Unprovisioned (not uploaded separately)
+00000 :Total Miscellaneous Uploads
